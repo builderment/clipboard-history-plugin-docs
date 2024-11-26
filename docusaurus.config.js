@@ -54,7 +54,7 @@ const config = {
         title: 'Clipboard History Plugin Docs',
         items: [
           {
-            href: 'https://www.fab.com/portal/listings/498a55c4-bb8d-4a7b-b5d1-e036bb89de92',
+            href: 'https://www.fab.com/listings/c07ebcf4-648f-4801-9ccc-e9e4fc98c00d',
             label: 'Marketplace Listing',
             position: 'right',
           },
@@ -67,7 +67,7 @@ const config = {
             items: [
               {
                 label: 'Marketplace Listing',
-                href: 'https://www.fab.com/portal/listings/498a55c4-bb8d-4a7b-b5d1-e036bb89de92',
+                href: 'https://www.fab.com/listings/c07ebcf4-648f-4801-9ccc-e9e4fc98c00d',
               },
               {
                 label: 'Discord',
